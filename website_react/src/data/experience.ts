@@ -32,14 +32,14 @@ export const experiences: Experience[] = [
       },
       {
         text:
-          "- Création d'une solution IA pour analyser les inspections ITV. "
+          "Création d'une solution IA pour analyser les inspections ITV. "
       },
       {
-        text: "- Intégration des approches CNN et NLP pour traiter les données visuelles et générer des rapports.",
+        text: "Intégration des approches CNN et NLP pour traiter les données visuelles et générer des rapports.",
       },
       {
         text:
-          "- Développement d'une solution industrialisable répondant aux besoins des opérateurs."
+          "Développement d'une solution industrialisable répondant aux besoins des opérateurs."
       }
     ],
     skills: [

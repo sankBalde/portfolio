@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the monitoring and logging setup for bjornmelin-platform-io.
+This document outlines the monitoring and logging setup for abdoulaye-platform-io.
 
 ## Monitoring Stack
 

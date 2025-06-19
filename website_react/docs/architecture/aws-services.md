@@ -1,6 +1,6 @@
 # AWS Services
 
-This document outlines the AWS services used in the bjornmelin-platform-io platform.
+This document outlines the AWS services used in the abdoulaye-platform-io platform.
 
 ## Core Services
 

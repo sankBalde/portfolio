@@ -89,8 +89,8 @@ export const metadata: Metadata = {
     "Full-Stack Development",
     "Cloud Computing",
   ],
-  authors: [{ name: "Bjorn Melin" }],
-  creator: "Bjorn Melin",
+  authors: [{ name: "Abdoulaye Baldé" }],
+  creator: "Abdoulaye Baldé",
 };
 
 export default function RootLayout({

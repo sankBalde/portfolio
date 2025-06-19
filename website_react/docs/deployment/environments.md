@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document outlines the environment configurations for bjornmelin-platform-io.
+This document outlines the environment configurations for abdoulaye-platform-io.
 
 ## Environment Types
 

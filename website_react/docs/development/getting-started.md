@@ -1,6 +1,6 @@
 # Getting Started
 
-This guide will help you set up your development environment for bjornmelin-platform-io.
+This guide will help you set up your development environment for abdoulaye-platform-io.
 
 ## Prerequisites
 
@@ -14,8 +14,8 @@ This guide will help you set up your development environment for bjornmelin-plat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/bjornmelin/bjornmelin-platform-io.git
-cd bjornmelin-platform-io
+git clone https://github.com/abdoulaye/abdoulaye-platform-io.git
+cd abdoulaye-platform-io
 ```
 
 2. Install dependencies:

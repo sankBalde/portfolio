@@ -8,6 +8,6 @@ export const hobbies: Hobby[] = [
   {
     name: "Basketball",
     emoji: "🏀",
-    description: "Passionné par le Basketball, je suis fan de Kyrie IRVING."
+    description: "Passionné de basketball, j’admire particulièrement le jeu de Kyrie Irving."
   }
 ]; 

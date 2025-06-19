@@ -35,7 +35,7 @@ export function AboutDetail() {
             <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-primary/10">
               <Image
                 src="/headshot/headshot-2024.jpg"
-                alt="Bjorn Melin"
+                alt="Abdoulaye Baldé"
                 fill
                 sizes="192px"
                 priority

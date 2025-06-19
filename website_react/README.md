@@ -1,6 +1,6 @@
-# 🏗️ bjornmelin-platform-io
+# 🏗️ abdoulaye-platform-io
 
-Cloud-native portfolio platform powering bjornmelin.io. Demonstrates AWS solutions architecture through serverless APIs and infrastructure as code. Built with React 18, Next.js 14, AWS CDK, and modern DevOps practices.
+Cloud-native portfolio platform powering abdoulaye.io. Demonstrates AWS solutions architecture through serverless APIs and infrastructure as code. Built with React 18, Next.js 14, AWS CDK, and modern DevOps practices.
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![AWS SAA](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?logo=amazon-aws)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
@@ -11,10 +11,10 @@ Cloud-native portfolio platform powering bjornmelin.io. Demonstrates AWS solutio
 [![AWS CCP](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?logo=amazon-aws)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-cloud-practitioner)
 [![React](https://img.shields.io/badge/React-19_RC-blue?logo=react)](https://react.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
-[![GitHub](https://img.shields.io/badge/GitHub-BjornMelin-181717?logo=github)](https://github.com/BjornMelin)
+[![GitHub](https://img.shields.io/badge/GitHub-abdoulaye-181717?logo=github)](https://github.com/abdoulaye)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bjorn%20Melin-0077B5?logo=linkedin)](https://www.linkedin.com/in/bjorn-melin/)
 [![Coursera](https://img.shields.io/badge/Coursera-2A73CC?logo=coursera&logoColor=white)](https://www.coursera.org/learner/bjorn-melin)
-[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@bjornmelin)
+[![Medium](https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white)](https://medium.com/@abdoulaye)
 
 ## 🌟 Features
 
@@ -144,7 +144,7 @@ graph LR
 ## 📁 Project Structure
 
 ```bash
-bjornmelin-platform-io/
+abdoulaye-platform-io/
 ├── .github/                # GitHub Actions workflows
 ├── docs/                  # Project documentation
 │   ├── api/              # API documentation
@@ -195,8 +195,8 @@ AWS CLI configured
 
 ```bash
 # Clone repository
-git clone https://github.com/bjornmelin/bjornmelin-platform-io.git
-cd bjornmelin-platform-io
+git clone https://github.com/abdoulaye/abdoulaye-platform-io.git
+cd abdoulaye-platform-io
 
 # Install dependencies
 yarn install
@@ -299,7 +299,7 @@ yarn cdk deploy   # Deploy AWS infrastructure
 
 ## 👨‍💻 Author
 
-### Bjorn Melin
+### Abdoulaye Baldé
 
 [![AWS Certified Solutions Architect](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-solutions-architect-associate)
 [![AWS Certified Developer](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)](https://www.credly.com/org/amazon-web-services/badge/aws-certified-developer-associate)
@@ -310,10 +310,10 @@ yarn cdk deploy   # Deploy AWS infrastructure
 
 AWS-certified Solutions Architect, Developer, SysOps Administrator, and Machine Learning Engineer with expertise in cloud architecture and modern development practices. Connect with me on:
 
-- [GitHub](https://github.com/BjornMelin)
+- [GitHub](https://github.com/abdoulaye)
 - [LinkedIn](https://www.linkedin.com/in/bjorn-melin/)
 - [Coursera](https://www.coursera.org/learner/bjorn-melin)
-- [Medium](https://medium.com/@bjornmelin)
+- [Medium](https://medium.com/@abdoulaye)
 
 ## 📜 License
 
@@ -321,7 +321,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=bjornmelin/bjornmelin-platform-io&type=Date)](https://star-history.com/#bjornmelin/bjornmelin-platform-io&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=abdoulaye/abdoulaye-platform-io&type=Date)](https://star-history.com/#abdoulaye/abdoulaye-platform-io&Date)
 
 ## 📚 How to Reference
 
@@ -330,11 +330,11 @@ If you use this project in your research or work, please cite it as:
 ```bibtex
 @misc{melin2024portfolio,
   author = {Melin, Bjorn},
-  title = {bjornmelin-platform-io: Cloud-Native Portfolio Platform},
+  title = {abdoulaye-platform-io: Cloud-Native Portfolio Platform},
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/bjornmelin/bjornmelin-platform-io}},
+  howpublished = {\url{https://github.com/abdoulaye/abdoulaye-platform-io}},
   commit = {main}
 }
 ```
@@ -342,7 +342,7 @@ If you use this project in your research or work, please cite it as:
 Standard Citation:
 
 ```
-Melin, B. (2024). bjornmelin-platform-io: Cloud-Native Portfolio Platform [Computer software]. GitHub. https://github.com/bjornmelin/bjornmelin-platform-io
+Melin, B. (2024). abdoulaye-platform-io: Cloud-Native Portfolio Platform [Computer software]. GitHub. https://github.com/abdoulaye/abdoulaye-platform-io
 ```
 
 ## 🙏 Acknowledgments
@@ -355,6 +355,6 @@ Melin, B. (2024). bjornmelin-platform-io: Cloud-Native Portfolio Platform [Compu
 
 <div align="center">
 
-Built with React 18 + Next.js 14 by [Bjorn Melin](https://bjornmelin.io)
+Built with React 18 + Next.js 14 by [Abdoulaye Baldé](https://abdoulaye.io)
 
 </div>

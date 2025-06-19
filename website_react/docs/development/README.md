@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This section provides comprehensive documentation for developers working on the bjornmelin-platform-io project. Our development process emphasizes code quality, performance, and maintainable architecture.
+This section provides comprehensive documentation for developers working on the abdoulaye-platform-io project. Our development process emphasizes code quality, performance, and maintainable architecture.
 
 ## Documentation Structure
 

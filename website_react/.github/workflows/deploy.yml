@@ -15,8 +15,8 @@ concurrency:
 
 env:
   AWS_REGION: us-east-1
-  NEXT_PUBLIC_BASE_URL: https://bjornmelin.io
-  NEXT_PUBLIC_API_URL: https://api.bjornmelin.io
+  NEXT_PUBLIC_BASE_URL: https://abdoulaye.io
+  NEXT_PUBLIC_API_URL: https://api.abdoulaye.io
 
 jobs:
   deploy:
@@ -99,9 +99,9 @@ jobs:
       # Verify the site is live at your real domain
       - name: Verify Deployment
         run: |
-          HTTP_CODE=$(curl -o /dev/null -s -w "%{http_code}" https://bjornmelin.io)
+          HTTP_CODE=$(curl -o /dev/null -s -w "%{http_code}" https://abdoulaye.io)
           if [ "$HTTP_CODE" != "200" ]; then
-            echo "Website verification failed at https://bjornmelin.io with HTTP code: $HTTP_CODE"
+            echo "Website verification failed at https://abdoulaye.io with HTTP code: $HTTP_CODE"
             exit 1
           fi
-          echo "Deployment verified. Received HTTP 200 from https://bjornmelin.io"
+          echo "Deployment verified. Received HTTP 200 from https://abdoulaye.io"

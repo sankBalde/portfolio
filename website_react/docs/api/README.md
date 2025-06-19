@@ -1,6 +1,6 @@
 # API Documentation
 
-This section covers the API endpoints available in bjornmelin-platform-io.
+This section covers the API endpoints available in abdoulaye-platform-io.
 
 ## Available Endpoints
 

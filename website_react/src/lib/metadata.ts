@@ -13,8 +13,8 @@ export function generateMetadata({
   path = '',
   image,
 }: GenerateMetadataProps): Metadata {
-  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://bjornmelin.com';
-  const fullTitle = title ? `${title} | Bjorn Melin` : 'Bjorn Melin - AWS Solutions Architect & Full Stack Developer';
+  const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || 'https://abdoulaye.com';
+  const fullTitle = title ? `${title} | Abdoulaye Baldé` : 'Abdoulaye Baldé - AWS Solutions Architect & Full Stack Developer';
   
   return {
     title: fullTitle,
@@ -27,7 +27,7 @@ export function generateMetadata({
       title: fullTitle,
       description,
       url: `${baseUrl}${path}`,
-      siteName: 'Bjorn Melin',
+      siteName: 'Abdoulaye Baldé',
       type: 'website',
       ...(image && { images: [{ url: image }] }),
     },

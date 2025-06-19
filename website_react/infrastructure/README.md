@@ -22,7 +22,7 @@ graph TD
 
 ### Configuration Details
 
-- Domain: bjornmelin.io
+- Domain: abdoulaye.io
 - Environment: Production
 - Region: us-east-1 (primary)
 - CDK Version: 2.99.1
@@ -49,7 +49,7 @@ graph TD
 ```typescript
 export const CONFIG = {
   prod: {
-    domainName: "bjornmelin.io",
+    domainName: "abdoulaye.io",
     environment: "prod",
   },
 };

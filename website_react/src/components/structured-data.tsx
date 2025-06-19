@@ -2,33 +2,28 @@ export function generatePersonSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "Person",
-    name: "Bjorn Melin",
-    url: "https://bjornmelin.com",
-    jobTitle: "Senior Data Scientist & Cloud Solutions Architect",
+    name: "Abdoulaye Baldé",
+    url: "https://abdoulaye.com",
+    jobTitle: "Ingénieur IA Junior | Vision par ordinateur, NLP, IA générative",
     description:
-      "Senior Data Scientist and Cloud Solutions Architect specializing in neuro-symbolic AI, deep learning, and MLOps. AWS Machine Learning Engineer and 6x AWS Certified professional with expertise in cloud architecture, AI engineering, and modern development practices.",
+      "Ingénieur IA Junior, spécialisé en vision par ordinateur, traitement du langage naturel et IA générative, avec un intérêt marqué pour les innovations en IA/ML et les architectures cloud scalables.",
     sameAs: [
-      "https://github.com/bjornmelin",
-      "https://linkedin.com/in/bjornmelin",
-      "https://orcid.org/0000-0003-3891-5522",
-      "https://www.coursera.org/learner/bjorn-melin",
+ 
     ],
     knowsAbout: [
-      "Neuro-symbolic AI",
+
       "Deep Learning",
       "Reinforcement Learning",
       "Machine Learning Engineering",
-      "AWS Cloud Architecture",
+      "Azure Cloud Architecture",
       "Serverless Computing",
       "MLOps",
       "Data Science",
-      "Full Stack Development",
       "Python Development",
       "TensorFlow & PyTorch",
       "LangChain & Vector Databases",
       "CI/CD & Infrastructure as Code",
-      "Kubernetes & Docker",
-      "Next.js & React Development",
+      "Docker",
       "Node.js Development",
       "Statistical Modeling",
       "Clustering & Dimensionality Reduction",
@@ -41,13 +36,13 @@ export function generateWebsiteSchema() {
   return {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "Bjorn Melin - Portfolio",
-    url: "https://bjornmelin.com",
+    name: "Abdoulaye Baldé - Portfolio",
+    url: "https://abdoulaye.com",
     description:
-      "Personal portfolio of Bjorn Melin, Senior Data Scientist and AWS Machine Learning Engineer specializing in neuro-symbolic AI, deep learning, and cloud architecture.",
+      "Ingénieur IA Junior, spécialisé en vision par ordinateur, traitement du langage naturel et IA générative, avec un intérêt marqué pour les innovations en IA/ML et les architectures cloud scalables.",
     author: {
       "@type": "Person",
-      name: "Bjorn Melin",
+      name: "Abdoulaye Baldé",
     },
   };
 }

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document provides an overview of deployment processes and practices for bjornmelin-platform-io.
+This document provides an overview of deployment processes and practices for abdoulaye-platform-io.
 
 ## Deployment Architecture
 

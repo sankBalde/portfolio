@@ -1,6 +1,6 @@
 # CI/CD Pipeline Documentation
 
-This document outlines the deployment process for bjornmelin-platform-io.
+This document outlines the deployment process for abdoulaye-platform-io.
 
 ## Infrastructure Deployment
 

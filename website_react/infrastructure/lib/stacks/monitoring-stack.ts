@@ -18,7 +18,7 @@ export class MonitoringStack extends cdk.Stack {
 
     // Add email subscription
     alertTopic.addSubscription(
-      new subscriptions.EmailSubscription("bjornmelin16@gmail.com")
+      new subscriptions.EmailSubscription("abdoulaye16@gmail.com")
     );
 
     // CloudFront Metrics Dashboard

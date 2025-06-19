@@ -80,7 +80,7 @@ export class EmailStack extends cdk.Stack {
         entry: path.join(__dirname, "../functions/contact-form/index.ts"),
         environment: {
           SENDER_EMAIL: `no-reply@${domain}`,
-          RECIPIENT_EMAIL: "bjornmelin16@gmail.com",
+          RECIPIENT_EMAIL: "abdoulaye16@gmail.com",
           REGION: this.region,
           ALLOWED_ORIGIN: apiEndpoint, // Use the secure API endpoint
         },
